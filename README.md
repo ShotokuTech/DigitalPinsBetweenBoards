@@ -14,6 +14,6 @@ The results can be seen in the video.
 Thanks!
 
 Arduino Uno Signals TTGO T-Display Using Digital GPIO Pins.
-https://youtu.be/gc2Oy9VUCfk
+
 
 ![DigitalPinsBetweenBoards](https://github.com/ShotokuTech/DigitalPinsBetweenBoards/blob/main/hello%20from%20arduino.png)
