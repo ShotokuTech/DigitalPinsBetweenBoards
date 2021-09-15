@@ -12,3 +12,6 @@ The exception is the button is excluded and instead, Pin 2 on the TTGO T-Display
 The results can be seen in the video.
 
 Thanks!
+
+Arduino Uno Signals TTGO T-Display Using Digital GPIO Pins.
+https://youtu.be/gc2Oy9VUCfk
